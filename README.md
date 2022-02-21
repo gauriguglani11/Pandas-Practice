@@ -1,6 +1,6 @@
 # Pandas-Practice
 
-**Have covered following topics in Pandas:
+Have covered following topics in Pandas:
 
 a. Pandas Series
 
